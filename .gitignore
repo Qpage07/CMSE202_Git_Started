@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+.env
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
